@@ -16,6 +16,17 @@ sections:
         url: /store
         arrow: true
         style: primary
+  - type: promotion_section
+    section_id: promotion_section
+    title: A new home interior for summer
+    subtitle: from $149.99
+    image: images/promo.jpg
+    background_image: images/leaf.svg
+    cta:
+      title: Discover
+      url: /store
+      style: secondary
+      arrow: true
   - type: testimonials_section
     section_id: testimonials_section
     title: Testimonials
@@ -33,17 +44,6 @@ sections:
         text: >-
           Well I'll be d*mned. These plants really ARE greener than any of my
           recruits.
-  - type: promotion_section
-    section_id: promotion_section
-    title: A new home interior for summer
-    subtitle: from $149.99
-    image: images/promo.jpg
-    background_image: images/leaf.svg
-    cta:
-      title: Discover
-      url: /store
-      style: secondary
-      arrow: true
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
